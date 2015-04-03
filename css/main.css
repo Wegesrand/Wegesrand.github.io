@@ -1,0 +1,90 @@
+body {
+    font-family: 'Comfortaa', Helvetica, Arial, sans-serif;
+}
+
+.btn-xl {
+    font-family: 'Comfortaa', Helvetica, Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Comfortaa', Helvetica, Arial, sans-serif;
+}
+
+footer span.copyright {
+    font-family: 'Comfortaa', Helvetica, Arial, sans-serif;
+}
+
+.navbar-default {
+    background-color: rgba(0, 0, 0, .25);
+}
+
+.navbar-default.navbar-shrink {
+    background-color: rgba(191, 158, 6, .95);
+}
+
+.navbar .navbar-brand {
+    color: #ffffff;
+    font-weight: bold;
+    font-family: 'Comfortaa', Helvetica, Arial, sans-serif;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus,
+.navbar-default .navbar-brand:active,
+.navbar-default .navbar-brand.active {
+    color: #777;
+}
+
+.navbar-default .nav li a {
+    font-family: 'Comfortaa', Helvetica, Arial, sans-serif;
+    text-transform: lowercase;
+}
+
+header .intro-text {
+    padding-top: 100px;
+}
+
+header .intro-text .intro-heading {
+    text-transform: lowercase;
+    font-family: 'Comfortaa', Helvetica, Arial, sans-serif;
+    font-size: 40px;
+    color: #bf9e06;
+}
+
+header .intro-text .intro-lead-in {
+    font-family: 'Comfortaa', Helvetica, Arial, sans-serif;
+    color: #777;
+    font-style: normal;
+}
+
+@media (min-width: 768px) {
+    header .intro-text {
+
+    }
+
+    header .intro-text .intro-lead-in {
+
+    }
+
+    header .intro-text .intro-heading {
+        font-size: 75px;
+        font-weight: 700;
+        line-height: 75px;
+    }
+}
+
+@media (min-width: 768px) {
+    .navbar-default.navbar-shrink {
+        background-color: rgba(191, 158, 6, .95);
+    }
+}
+
+section h2.section-heading {
+    font-family: 'Comfortaa', Helvetica, Arial, sans-serif;
+    font-size: 25px;
+}
+
+section h3.section-subheading {
+    font-family: 'Comfortaa', Helvetica, Arial, sans-serif;
+    margin-bottom: 10px;
+}
